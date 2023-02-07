@@ -146,3 +146,4 @@ http://git-annex.branchable.com/walkthrough/ #see ssh section
 - git remote add origin git@github.com:miketruax/
 - test-repo.git
 - git push -u origin master
+
