@@ -8,6 +8,8 @@
 
 ## Pushing Changes from Local to Remote
 
+- git add .
+- git commit -m "commit message"
 - git push [remote] [branch]
 
 ## Cloning a Repository
