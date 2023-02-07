@@ -6,6 +6,8 @@
 
 - Make sure your work from today is pushed to GitHub so you can easily access it
 
+- Download VSCode Extensions (optional)
+
 - Sign the handbook in Google Forms (https://forms.gle/c99kHeR5RJx9SmZV9)
 
 - Review anything from today and ask questions
