@@ -3,23 +3,25 @@
 - git init -b main
 - git add .
 - git commit -m "commit message"
-- git remote add origin [URL]
+- git remote add origin URL
 - git push origin main
 
 ## Pushing Changes from Local to Remote
 
 - git add .
 - git commit -m "commit message"
-- git push [remote] [branch]
+- git push remote branch
 
 ## Cloning a Repository
 
-- git clone [URL]
+- git clone URL
 
 ## Getting Updates from Remote Repository
 
-- git fetch [remote]
+- git fetch remote
 
     OR
 
-- git pull [remote]
+- git pull remote
+
+git remote rm project

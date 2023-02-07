@@ -29,6 +29,16 @@ p {
   width: calc(33% - 6px);
 }
 
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color:black;
+}
+
 .center {
   text-align: center;
 }
